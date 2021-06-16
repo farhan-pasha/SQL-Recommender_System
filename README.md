@@ -1,12 +1,5 @@
 ## Project: Database Design to support Library and its Recommendation Engine
 
-##
-
-**        Mohammad Farhan Pasha**
-
-**18200409**
-
-**                              mohammad.farhanpasha@ucdconnect.ie**
 
 **Table of Contents**
 
